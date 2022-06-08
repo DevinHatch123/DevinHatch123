@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![download](https://user-images.githubusercontent.com/107000693/172678517-e6540c36-3ce1-418b-b14f-8b6390e0e35f.jpg)
 
-<!--
+
 **DevinHatch123/DevinHatch123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my talent with magic tiles 3
 - 📫 How to reach me: 801-598-6650
 - 😄 Pronouns: he, him
-- ⚡ Fun fact: im canadian
--->
+- ⚡ Fun fact: im canadian 
+- FUN FACTS
+- I love to surf
+- i like playingn xbox
